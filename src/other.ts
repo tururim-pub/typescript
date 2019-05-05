@@ -8,6 +8,6 @@ var foo = Bar.myFoo;
 
 var result = JSON.stringify(foo, undefined, 2);
 
-console.log("foo");
+console.log("foo2");
 
 document.getElementById("app").innerHTML = `<div>Hello</div>`;
