@@ -1,2 +1,0 @@
-# typescript
-Created with CodeSandbox
